@@ -19,9 +19,9 @@ Clone Repo
 - `npm install`
 
 # Run Microfrontends Individually
-ng serve angular-mfe-example
-ng serve remoteapp1
-ng serve remoteapp2
+- ng serve angular-mfe-example
+- ng serve remoteapp1
+- ng serve remoteapp2
 
 # Notes
 - Designed for learning purposes only.
